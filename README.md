@@ -1,2 +1,4 @@
 # Miles-To-Kilometers-Converter-GUI
-It's a simple GUI made with tkinter that converts miles to kilometers (As the name suggests)
+It's pretty simple and doesn't really need an explanation since it's function is in the title, I could've made the comments in the code a bit better but I'm too lazy.
+
+I taught myself Tkinter and this was the 2nd thing I've made with it, so yeah.
