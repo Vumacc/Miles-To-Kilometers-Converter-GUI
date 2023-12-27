@@ -1,13 +1,9 @@
 # Miles To Kilometers Converter GUI
-It's pretty simple and doesn't really need an explanation since it's function is in the title, I could've made the comments in the code a bit better but I'm too lazy.
+It's pretty simple and doesn't really need an explanation since it's function is in the title, I could've made the comments in the code a bit better but I'm too lazy. 
 
-I taught myself Tkinter and this was the 2nd thing I've made with it, so yeah.
+**How it looks like**
 
-# Stuff you need
-You need the following stuff for the code to work
-- Have installed tkinter
-- Have installed ttkbootstrap
+<img width="224" alt="image" src="https://github.com/Vumacc/Miles-To-Kilometers-Converter-GUI/assets/149380921/9bde5e68-f6a0-4295-bffd-df68e12285b8">
 
-**To install do this in the Shell**
-- `pip install tkinter`
-- `pip install ttkbootstrap`
+# Upcoming updates in the future
+- Improvements to the visuals
